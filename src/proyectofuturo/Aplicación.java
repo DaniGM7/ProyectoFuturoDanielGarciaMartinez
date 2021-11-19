@@ -16,6 +16,7 @@ public class Aplicación {
     return "Poco tiempo de estudio. Debes dedicar más tiempo.";
     }
     return "Ideal. Trabajas los contenidos en casa.";
-
+    
+//Daniel García Martínez
     }
 }
